@@ -1,0 +1,49 @@
+{
+  "term": "Fall",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Art History"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ]
+  ],
+  "legacy_uid": "104b86cc-d8c3-7065-2527-6801233d06ae",
+  "instructors": {
+    "content": [
+      "ad85971a-2e5c-fd3c-fa6d-81d4b63f5d79"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "59c0421d-abc4-bb27-3993-f8e6d3638098",
+    "website": "4-651-art-since-1940-fall-2010"
+  },
+  "course_title": "Art Since 1940",
+  "course_description": "This subject focuses on the objects, history, context, and critical discussion surrounding art since World War II. Because of the burgeoning increase in art production, the course is necessarily selective. We will trace major developments and movements in art up to the present, primarily from the US; but we will also be looking at art from Europe, Asia, Africa, Latin America, and the Middle East, as well as art \"on the margins\" \u2014 art that has been overlooked by the mainstream critical press, but may have a broad cultural base in its own community. We will ask what function art serves in its various cultures of origin, and why art has been such a lightning rod for political issues around the world.\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.651",
+  "course_image_thumbnail": {
+    "content": "121774f8-4af9-e386-6fb8-fb7d0c645659",
+    "website": "4-651-art-since-1940-fall-2010"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Exams",
+    "Written Assignments"
+  ],
+  "site_uid": "1c1c680f-f6ec-4d32-a7e5-0dfd76b39163",
+  "site_short_id": "4.651-fall-2010",
+  "site_url_path": "courses/4-651-art-since-1940-fall-2010",
+  "title": "Course Metadata"
+}
