@@ -4,6 +4,8 @@ description: This file contains information about research papers.
 file: /courses/4-651-art-since-1940-fall-2010/8a20880bb052a591087de1504f16764b_MIT4_651F10_paper2.pdf
 file_size: 129340
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

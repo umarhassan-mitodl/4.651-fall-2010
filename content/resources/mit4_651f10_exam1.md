@@ -4,6 +4,8 @@ description: 'This file contains information about midterm image study sheet. '
 file: /courses/4-651-art-since-1940-fall-2010/41c15d5d666fb526c8c882446c499734_MIT4_651F10_exam1.pdf
 file_size: 82851
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

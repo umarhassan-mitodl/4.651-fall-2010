@@ -65,7 +65,7 @@ Surrealism to abstract expressionism
 
 \[NYS\], Introduction and chapters 4-7.
 
-![Buy at MIT Press](/images/mp_logo.gif) Hofmann, Hans. "The Search for the Real in the Visual Arts." _Pp. 40-48 in_ {{% resource_link "3a701a24-fc62-4c72-9c2d-9dd5c79b8093" "_Search for the Real, and Other Essays_" %}}. Edited by Sara T. Weeks, and Bartlett H. Hayes, Jr. Cambridge, MA: MIT Press, 1967. ISBN: 9780262580083.
+![Buy at MIT Press](/images/mp_logo.gif) Hofmann, Hans. "The Search for the Real in the Visual Arts." _Pp. 40-48 in_ [_Search for the Real, and Other Essays_](https://mitpress.mit.edu/9780262580083). Edited by Sara T. Weeks, and Bartlett H. Hayes, Jr. Cambridge, MA: MIT Press, 1967. ISBN: 9780262580083.
 
 \[MIS\], "The Romance of the Studio and the Abstract Expressionist Sublime." pp. 1-41.
 
@@ -285,7 +285,7 @@ Cooper, Helen, et al. _Eva Hesse: A Retrospective_. New Haven, CT: Yale Universi
 
 Jacob, Mary Jane, ed. _Gordon Matta-Clark: A Retrospective_. Chicago, IL: Museum of Contemporary Art, 1985. ISBN: 9780933856202.
 
-Holloway, Robert. {{% resource_link "04a57bf3-93e3-4389-88b2-4a9e68c3ba56" "_Matta-Clarking_" %}}. Ebook, 2008.
+Holloway, Robert. [_Matta-Clarking_](http://www.mattaclarking.co.uk). Ebook, 2008.
 
 Jones, Amelia, ed. _Sexual Politics: Judy Chicago's 'Dinner Party' in Feminist Art History_. Berkeley, CA: University of California Press, 1996. (Read Jones' essay) ISBN: 9780520205666.
 
@@ -309,7 +309,7 @@ Owens, Craig. "The Discourse of Others: Feminists and Postmodernism." Pp. 166-19
 
 ### Recommended
 
-![Buy at MIT Press](/images/mp_logo.gif) Wodiczko, Krzysztof. {{% resource_link "33784905-df4b-4cdb-8182-0c37a03af15c" "_Critical Vehicals_" %}}. Cambridge, MA: MIT Press, 1999. ISBN: 9780262731225.
+![Buy at MIT Press](/images/mp_logo.gif) Wodiczko, Krzysztof. [_Critical Vehicals_](https://mitpress.mit.edu/9780262731225). Cambridge, MA: MIT Press, 1999. ISBN: 9780262731225.
 
 Lippard, Lucy. _Mixed Blessings: New Art in a Multicultural America_. New York, NY: The New Press, 2000. ISBN: 9781565845732.
 
