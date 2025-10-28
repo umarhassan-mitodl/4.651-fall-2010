@@ -4,8 +4,6 @@ description: This resource contains information about the final exam image study
 file: /courses/4-651-art-since-1940-fall-2010/9c300272e15bc14bc34855b2ec2dc488_MIT4_651F10_exam2.pdf
 file_size: 63031
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

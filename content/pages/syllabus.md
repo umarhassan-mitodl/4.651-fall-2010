@@ -2,8 +2,6 @@
 content_type: page
 description: This syllabus section provides a course overview and information on meeting
   times, requirements, readings, grading, and honor policy for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -23,7 +21,7 @@ This subject focuses on the objects, history, context, and critical discussion s
 Requirements
 ------------
 
-To learn this subject, you will be expected to attend class meetings, do a good bit of outside reading and looking, view films during class, write two papers (one as part of a midterm), attend any field trips, participate in an in-class debate, and take a final exam. For help with writing, you are encouraged to take advantage of the [writing center](http://cmsw.mit.edu/writing-and-communication-center/). We understand there are different learning styles so please come to office hours or meet with the T.A. to plan a strategy that works for you.
+To learn this subject, you will be expected to attend class meetings, do a good bit of outside reading and looking, view films during class, write two papers (one as part of a midterm), attend any field trips, participate in an in-class debate, and take a final exam. For help with writing, you are encouraged to take advantage of the {{% resource_link "8425efa3-e030-48a9-9076-c47c1da1620b" "writing center" %}}. We understand there are different learning styles so please come to office hours or meet with the T.A. to plan a strategy that works for you.
 
 Readings
 --------
